@@ -41,7 +41,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
    npm install @xenova/transformers
    ```
 
-4. Crie o arquivo `tradutor-universal.js` na pasta e cole o código do script correspondente.
+4. Crie o arquivo `tradutor.js` na pasta e cole o código do script correspondente.
 
 ---
 
@@ -52,7 +52,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 1. Abra o seu **Prompt de Comando (CMD)** ou o terminal do VS Code na pasta do projeto.
 2. Digite o comando abaixo inserindo um espaço ao final:
    ```bash
-   node tradutor-universal.js 
+   node tradutor.js 
    ```
 3. **Arraste e solte** o arquivo da sua ROM descompactada (Ex: `Secret of Evermore (USA).sfc`) de dentro da sua pasta direto para a janela do terminal. O Windows preencherá o caminho do arquivo automaticamente.
 4. Aperte **Enter**.
